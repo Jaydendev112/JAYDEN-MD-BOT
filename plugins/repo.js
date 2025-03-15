@@ -28,7 +28,7 @@ const repo = async (m, gss) => {
       await gss.sendMessage(
         m.from,
         {
-          image: { url: "https://files.catbox.moe/5kvvfg.jpg" },
+          image: { url: "https://files.catbox.moe/yedfbr.jpg" },
           caption: formattedInfo,
           contextInfo: {
             mentionedJid: [m.sender],
@@ -36,7 +36,7 @@ const repo = async (m, gss) => {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: "120363299029326322@newsletter",
-              newsletterName: "ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ",
+              newsletterName: "ᴊᴀʏᴅᴇɴ",
               serverMessageId: 143,
             },
           },
@@ -57,7 +57,7 @@ const repo = async (m, gss) => {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: "120363299029326322@newsletter",
-              newsletterName: "ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ",
+              newsletterName: "ᴊᴀʏᴅᴇɴ",
               serverMessageId: 143,
             },
           },
