@@ -1,9 +1,9 @@
 {
-  "name": "😇𝙋𝙤𝙥𝙠𝙞𝙙 𝙓𝙩𝙚𝙘𝙝😇",
-  "description": "Ok Popkid made it.",
-  "logo": "https://files.catbox.moe/w5xf3f.jpg",
+  "name": "✨𝙹𝙰𝚈𝙳𝙴𝙽-𝙼𝙳-𝙱𝙾𝚃",
+  "description": "Ok 𝙹𝚊𝚢𝚍𝚎𝚗 made it.",
+  "logo": "https://files.catbox.moe/yedfbr.jpg",
   "keywords": ["Popkid"],
-  "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
+  "repository": "https://github.com/Jaydendev112/JAYDEN-MD-BOT",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -39,12 +39,12 @@
     "OWNER_NAME": {
       "description": "set your status reply message",
       "required": false,
-      "value": "Marisel"
+      "value": "JAYDEN🧑‍💻"
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "254111385747"
+      "value": "254107065646"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
