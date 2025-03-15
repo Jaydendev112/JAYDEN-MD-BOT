@@ -10,10 +10,10 @@
 
 # PARING CODE 
 </a></p>
-- <a href="https://malvin-session-sddo.onrender.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
+- <a href="https://malvin-session-v7ad.onrender.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
 </p>
 
 # DEPLOY ON 
 
-- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jaydendev112/SIGMA-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jaydendev112/JAYDEN-MD-BOT"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
