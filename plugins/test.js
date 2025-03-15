@@ -27,7 +27,7 @@ const alive = async (m, Matrix) => {
     const buffer = await image.getBufferAsync(Jimp.MIME_PNG);
     
     const uptimeMessage = `╭───────────────━⊷
-║ *ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ ᴜᴘᴛɪᴍᴇ*
+║ *ᴊᴀʏᴅᴇɴ-ᴍᴅ-ᴀᴡᴀᴋᴇ*
 ╰───────────────━⊷
 ╭───────────────━⊷
 ║- *${days} Day(s)*
@@ -36,7 +36,7 @@ const alive = async (m, Matrix) => {
 ║- *${seconds} Second(s)*
 ╰───────────────━⊷
 ╭───────────────━⊷
-║ sᴛᴀʀ ᴛʜᴇɴ ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
+║  ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴄʜᴏᴏsɪɴɢ ᴊᴀʏᴅᴇɴ-ᴍᴅ-ʙᴏᴛ
 ║
 ╰───────────────━⊷`;
     
@@ -87,7 +87,7 @@ const alive = async (m, Matrix) => {
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363299029326322@newsletter',
-                newsletterName: "ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ",
+                newsletterName: "ᴊᴀʏᴅᴇɴ",
                 serverMessageId: 1
               }
             }
